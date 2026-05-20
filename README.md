@@ -44,23 +44,11 @@ Atualmente aprofundando conhecimentos em Python, Java, JavaScript e construção
 
 ---
 
-## 📊 Estatísticas GitHub
+## 💻 Linguagens Mais Utilizadas
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=NicolasWebMaster&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasWebMaster&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NicolasWebMaster&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolasWebMaster&theme=github_dark" />
 
 </div>
 

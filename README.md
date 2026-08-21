@@ -40,6 +40,8 @@ Atualmente aprofundando conhecimentos em Python, Java, JavaScript e construção
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,python,java&perline=7" />
 
+## HMTL - CSS - JavaScript - TypeScript - Git - Python - Java
+
 </div>
 
 ---

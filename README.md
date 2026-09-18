@@ -24,7 +24,7 @@ Atualmente aprofundando conhecimentos em Python, Java, JavaScript e construção
 
 ## 🌐 Contato
 
-<a href="https://www.linkedin.com/in/NicolasWebMaster/" target="_blank">
+<a href="www.linkedin.com/in/nicolas-ribeiro-0bb906362" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-NicolasWebMaster-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 

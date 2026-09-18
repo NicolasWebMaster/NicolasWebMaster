@@ -2,7 +2,7 @@
 
 # Nicolas Ribeiro
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+BackEnd;IA+e+Automações;Python+%7C+Java+%7C+JavaScript;Sempre+aprendendo+e+evoluindo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+BackEnd;IA+e+Automações;Python+%7C+Java+%7C+JavaScript+%7C+C;Sempre+aprendendo+e+evoluindo" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 Desenvolvedor BackEnd em constante evolução, focado em automações, Inteligência Artificial e desenvolvimento web.
 
-Atualmente aprofundando conhecimentos em Python, Java, JavaScript e construção de soluções práticas e eficientes.
+Atualmente aprofundando conhecimentos em Python, Java, JavaScript, C e construção de soluções práticas e eficientes.
 
 </td>
 
@@ -40,7 +40,7 @@ Atualmente aprofundando conhecimentos em Python, Java, JavaScript e construção
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,python,java&perline=7" />
 
-### HMTL - CSS - JavaScript - TypeScript - Git - Python - Java
+### HMTL - CSS - JavaScript - TypeScript - Git - Python - Java - C
 
 </div>
 
@@ -62,6 +62,7 @@ Atualmente aprofundando conhecimentos em Python, Java, JavaScript e construção
 - Inteligência Artificial
 - APIs REST
 - Java
+- C
 - Python
 - Automações
 
